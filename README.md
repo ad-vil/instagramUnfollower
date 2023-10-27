@@ -3,7 +3,7 @@ program to see who doesn't follow back on instragram
 
 Hello!
 
-    This program is intended to find the people who don't follow you back on instagram without using
+This program is intended to find the people who don't follow you back on instagram without using
 any unsafe third party apps which are likely to steal your data. This program is completely safe since it
 never even uses your login info, only info you request directly in the app.
 (this may look super confusing, but it's simple and only takes around 10 min so just follow along carefully :) )
